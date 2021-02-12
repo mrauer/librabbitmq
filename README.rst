@@ -1,6 +1,5 @@
 ================================================================
- This is a non-official version of librabbitmq.
- 1.6.1 compatible with Python 3 tagged as 1.6.2
+ This is a non-official version of librabbitmq: 1.6.1 compatible with Python 3 tagged as 1.6.2
 ================================================================
 
 :Version: 1.6.0
